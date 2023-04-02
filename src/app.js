@@ -1,5 +1,4 @@
 const infoBlocks = document.querySelectorAll(".info");
-const contentBlock = document.querySelector("#content");
 
 function checkIfVisible(elems) {
 	elems.forEach((elem) => {
